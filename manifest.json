@@ -1,0 +1,11 @@
+{
+  "name": "Gokul Reader",
+  "short_name": "Gokul Reader",
+  "start_url": "./",
+  "id": "gokulreader",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Audio and PDF reader application for reading documents aloud."
+}
+
